@@ -1,0 +1,33 @@
+[08-Oct-2024 22:54:12 Asia/Jakarta] Client error: `POST https://irvankedesmm.co.id/api/services` resulted in a `401 Unauthorized` response:
+{"status":false,"msg":"Kredensial tidak valid."}
+
+[09-Oct-2024 00:01:41 Asia/Jakarta] Client error: `POST https://irvankedesmm.co.id/api/services` resulted in a `401 Unauthorized` response:
+{"status":false,"msg":"Kredensial tidak valid."}
+
+[09-Oct-2024 00:15:16 Asia/Jakarta] Client error: `POST https://irvankedesmm.co.id/api/services` resulted in a `401 Unauthorized` response:
+{"status":false,"msg":"Kredensial tidak valid."}
+
+[11-Oct-2024 00:00:21 Asia/Jakarta] Client error: `POST https://irvankedesmm.co.id/api/services` resulted in a `401 Unauthorized` response:
+{"status":false,"msg":"Kredensial tidak valid."}
+
+[11-Oct-2024 12:00:11 Asia/Jakarta] Client error: `POST https://irvankedesmm.co.id/api/services` resulted in a `401 Unauthorized` response:
+{"status":false,"msg":"Kredensial tidak valid."}
+
+[12-Oct-2024 00:00:14 Asia/Jakarta] Client error: `POST https://irvankedesmm.co.id/api/services` resulted in a `401 Unauthorized` response:
+{"status":false,"msg":"Kredensial tidak valid."}
+
+[12-Oct-2024 00:00:29 Asia/Jakarta] Client error: `POST https://smmpanelking.com/api/v2` resulted in a `401 Unauthorized` response:
+{"error":"Invalid API key"}
+
+[12-Oct-2024 12:00:12 Asia/Jakarta] Client error: `POST https://irvankedesmm.co.id/api/services` resulted in a `401 Unauthorized` response:
+{"status":false,"msg":"Kredensial tidak valid."}
+
+[12-Oct-2024 12:00:27 Asia/Jakarta] Client error: `POST https://smmpanelking.com/api/v2` resulted in a `401 Unauthorized` response:
+{"error":"Invalid API key"}
+
+[14-Oct-2024 00:00:20 Asia/Jakarta] Client error: `POST https://irvankedesmm.co.id/api/services` resulted in a `401 Unauthorized` response:
+{"status":false,"msg":"Kredensial tidak valid."}
+
+[14-Oct-2024 00:00:38 Asia/Jakarta] Client error: `POST https://smmpanelking.com/api/v2` resulted in a `401 Unauthorized` response:
+{"error":"Invalid API key"}
+
